@@ -1,1 +1,1 @@
-function LoadAd() { parent.location.href="https://about.quindate.com"; } LoadAd();
+function LoadAd() { parent.location.href="https://appplayvideos.blogspot.com/"; } LoadAd();
